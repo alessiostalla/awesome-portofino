@@ -19,6 +19,7 @@ If you're new to Portofino, start with looking at the [official website](https:/
 ## Libraries
 
 * [Portofino.js](https://manydesigns.github.io/portofino-js/) is a JavaScript library to invoke Portofino services / actions easily.
+* [portofino-commander](https://github.com/alessiostalla/portofino-commander) is a TypeScript library to interact with a Portofino service on top of the Fetch API and RxJS.
 * [portofino-autocrud](https://github.com/alessiostalla/portofino-autocrud) is a development/discovery/exploration module to quickly access the database in a Portofino application.
 * [portofino-react-admin](https://github.com/alessiostalla/portofino-react-admin) allows to quickly develop a React UI for Portofino using [React Admin](https://marmelab.com/react-admin/).
 
